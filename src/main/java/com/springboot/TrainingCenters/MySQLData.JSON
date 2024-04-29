@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "centerName": "Example Training Center",
+    "centerCode": "TC01",
+    "address": {
+      "detailedAddress": "123 Main St",
+      "city": "City",
+      "state": "State",
+      "pincode": "12354"
+    },
+    "studentCapacity": 100,
+    "coursesOffered": [
+      {
+        "id": 1,
+        "courseName": "Course 1"
+      },
+      {
+        "id": 2,
+        "courseName": "Course 2"
+      }
+    ],
+    "createdOn": 1714319168368,
+    "contactEmail": "example@example.com",
+    "contactPhone": "+1234567890"
+  },
+  {
+    "id": 2,
+    "centerName": "Example1 Training Center",
+    "centerCode": "TC003",
+    "address": {
+      "detailedAddress": "100 Main St",
+      "city": "City",
+      "state": "State",
+      "pincode": "12378"
+    },
+    "studentCapacity": 50,
+    "coursesOffered": [
+      {
+        "id": 3,
+        "courseName": "Course 3"
+      },
+      {
+        "id": 4,
+        "courseName": "Course 4"
+      }
+    ],
+    "createdOn": 1714364995296,
+    "contactEmail": "example1@example.com",
+    "contactPhone": "+9178567890"
+  },
+  {
+    "id": 3,
+    "centerName": "Example2 Training Center",
+    "centerCode": "TC009",
+    "address": {
+      "detailedAddress": "10 Main St",
+      "city": "City",
+      "state": "State",
+      "pincode": "12778"
+    },
+    "studentCapacity": 50,
+    "coursesOffered": [
+      {
+        "id": 5,
+        "courseName": "Course 5"
+      },
+      {
+        "id": 6,
+        "courseName": "Course 6"
+      }
+    ],
+    "createdOn": 1714368519695,
+    "contactEmail": "example4@example.com",
+    "contactPhone": "+9178507890"
+  }
+]

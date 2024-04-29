@@ -14,4 +14,3 @@ spring.datasource.url=jdbc:mysql://localhost:3306/traini8_registry
 spring.datasource.username=your-username
 spring.datasource.password=your-password
 
-Endpoint: POST http://localhost:9090/api/training-centers
